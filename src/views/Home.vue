@@ -5,7 +5,7 @@
         b-card(:title="item.name" :img-src="item.img" img-top :sub-title="'$'+item.price")
           b-button(variant="info")
             font-awesome-icon(:icon="['fas', 'shopping-cart']")
-            | &nbsp; 加入購物車
+            | &nbsp;加入購物車
 </template>
 
 <script>
