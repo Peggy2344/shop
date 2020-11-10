@@ -22,7 +22,7 @@ export default {
         },
         {
           key: 'action',
-          label: '操作'
+          label: '刪除'
         }
       ]
     }
